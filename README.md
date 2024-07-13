@@ -9,3 +9,4 @@ day4 project -> ROCK,PAPER,SCISSOR game
 
 day5 project -> Password generator
 
+day7 project -> Hangman game(_,_,_,_)(guessing word game)
