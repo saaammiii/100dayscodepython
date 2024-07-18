@@ -14,3 +14,5 @@ day7 project -> Hangman game(_,_,_,_)(guessing word game)
 day8 project -> encode,decode text
 
 day9 project -> secrete auction program
+
+day10 project -> calculator
