@@ -16,3 +16,5 @@ day8 project -> encode,decode text
 day9 project -> secrete auction program
 
 day10 project -> calculator
+
+favourites.py  -> This is a simple project done using sqlite(add,rm,ls,and visiting the link)
